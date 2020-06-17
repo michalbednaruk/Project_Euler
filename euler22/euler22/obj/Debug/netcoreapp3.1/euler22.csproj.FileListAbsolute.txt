@@ -1,0 +1,22 @@
+C:\Users\micha\source\repos\euler22\euler22\bin\Debug\netcoreapp3.1\euler22.exe
+C:\Users\micha\source\repos\euler22\euler22\bin\Debug\netcoreapp3.1\euler22.deps.json
+C:\Users\micha\source\repos\euler22\euler22\bin\Debug\netcoreapp3.1\euler22.runtimeconfig.json
+C:\Users\micha\source\repos\euler22\euler22\bin\Debug\netcoreapp3.1\euler22.runtimeconfig.dev.json
+C:\Users\micha\source\repos\euler22\euler22\bin\Debug\netcoreapp3.1\euler22.dll
+C:\Users\micha\source\repos\euler22\euler22\bin\Debug\netcoreapp3.1\euler22.pdb
+C:\Users\micha\source\repos\euler22\euler22\obj\Debug\netcoreapp3.1\euler22.csprojAssemblyReference.cache
+C:\Users\micha\source\repos\euler22\euler22\obj\Debug\netcoreapp3.1\euler22.AssemblyInfoInputs.cache
+C:\Users\micha\source\repos\euler22\euler22\obj\Debug\netcoreapp3.1\euler22.AssemblyInfo.cs
+C:\Users\micha\source\repos\euler22\euler22\obj\Debug\netcoreapp3.1\euler22.dll
+C:\Users\micha\source\repos\euler22\euler22\obj\Debug\netcoreapp3.1\euler22.pdb
+D:\Programming\node_js projects\Project Euler\euler22\euler22\bin\Debug\netcoreapp3.1\euler22.exe
+D:\Programming\node_js projects\Project Euler\euler22\euler22\bin\Debug\netcoreapp3.1\euler22.deps.json
+D:\Programming\node_js projects\Project Euler\euler22\euler22\bin\Debug\netcoreapp3.1\euler22.runtimeconfig.json
+D:\Programming\node_js projects\Project Euler\euler22\euler22\bin\Debug\netcoreapp3.1\euler22.runtimeconfig.dev.json
+D:\Programming\node_js projects\Project Euler\euler22\euler22\bin\Debug\netcoreapp3.1\euler22.dll
+D:\Programming\node_js projects\Project Euler\euler22\euler22\bin\Debug\netcoreapp3.1\euler22.pdb
+D:\Programming\node_js projects\Project Euler\euler22\euler22\obj\Debug\netcoreapp3.1\euler22.csprojAssemblyReference.cache
+D:\Programming\node_js projects\Project Euler\euler22\euler22\obj\Debug\netcoreapp3.1\euler22.AssemblyInfoInputs.cache
+D:\Programming\node_js projects\Project Euler\euler22\euler22\obj\Debug\netcoreapp3.1\euler22.AssemblyInfo.cs
+D:\Programming\node_js projects\Project Euler\euler22\euler22\obj\Debug\netcoreapp3.1\euler22.dll
+D:\Programming\node_js projects\Project Euler\euler22\euler22\obj\Debug\netcoreapp3.1\euler22.pdb

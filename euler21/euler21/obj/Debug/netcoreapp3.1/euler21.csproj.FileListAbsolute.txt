@@ -1,0 +1,11 @@
+C:\Users\micha\source\repos\euler21\euler21\bin\Debug\netcoreapp3.1\euler21.exe
+C:\Users\micha\source\repos\euler21\euler21\bin\Debug\netcoreapp3.1\euler21.deps.json
+C:\Users\micha\source\repos\euler21\euler21\bin\Debug\netcoreapp3.1\euler21.runtimeconfig.json
+C:\Users\micha\source\repos\euler21\euler21\bin\Debug\netcoreapp3.1\euler21.runtimeconfig.dev.json
+C:\Users\micha\source\repos\euler21\euler21\bin\Debug\netcoreapp3.1\euler21.dll
+C:\Users\micha\source\repos\euler21\euler21\bin\Debug\netcoreapp3.1\euler21.pdb
+C:\Users\micha\source\repos\euler21\euler21\obj\Debug\netcoreapp3.1\euler21.csprojAssemblyReference.cache
+C:\Users\micha\source\repos\euler21\euler21\obj\Debug\netcoreapp3.1\euler21.AssemblyInfoInputs.cache
+C:\Users\micha\source\repos\euler21\euler21\obj\Debug\netcoreapp3.1\euler21.AssemblyInfo.cs
+C:\Users\micha\source\repos\euler21\euler21\obj\Debug\netcoreapp3.1\euler21.dll
+C:\Users\micha\source\repos\euler21\euler21\obj\Debug\netcoreapp3.1\euler21.pdb

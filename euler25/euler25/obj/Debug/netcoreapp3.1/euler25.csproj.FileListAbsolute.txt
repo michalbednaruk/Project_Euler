@@ -1,0 +1,13 @@
+C:\Users\micha\Documents\Programming\node_js projects\Project Euler\euler25\euler25\bin\Debug\netcoreapp3.1\euler25.exe
+C:\Users\micha\Documents\Programming\node_js projects\Project Euler\euler25\euler25\bin\Debug\netcoreapp3.1\euler25.deps.json
+C:\Users\micha\Documents\Programming\node_js projects\Project Euler\euler25\euler25\bin\Debug\netcoreapp3.1\euler25.runtimeconfig.json
+C:\Users\micha\Documents\Programming\node_js projects\Project Euler\euler25\euler25\bin\Debug\netcoreapp3.1\euler25.runtimeconfig.dev.json
+C:\Users\micha\Documents\Programming\node_js projects\Project Euler\euler25\euler25\bin\Debug\netcoreapp3.1\euler25.dll
+C:\Users\micha\Documents\Programming\node_js projects\Project Euler\euler25\euler25\bin\Debug\netcoreapp3.1\euler25.pdb
+C:\Users\micha\Documents\Programming\node_js projects\Project Euler\euler25\euler25\obj\Debug\netcoreapp3.1\euler25.csprojAssemblyReference.cache
+C:\Users\micha\Documents\Programming\node_js projects\Project Euler\euler25\euler25\obj\Debug\netcoreapp3.1\euler25.csproj.CoreCompileInputs.cache
+C:\Users\micha\Documents\Programming\node_js projects\Project Euler\euler25\euler25\obj\Debug\netcoreapp3.1\euler25.AssemblyInfoInputs.cache
+C:\Users\micha\Documents\Programming\node_js projects\Project Euler\euler25\euler25\obj\Debug\netcoreapp3.1\euler25.AssemblyInfo.cs
+C:\Users\micha\Documents\Programming\node_js projects\Project Euler\euler25\euler25\obj\Debug\netcoreapp3.1\euler25.dll
+C:\Users\micha\Documents\Programming\node_js projects\Project Euler\euler25\euler25\obj\Debug\netcoreapp3.1\euler25.pdb
+C:\Users\micha\Documents\Programming\node_js projects\Project Euler\euler25\euler25\obj\Debug\netcoreapp3.1\euler25.genruntimeconfig.cache
